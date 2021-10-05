@@ -1,0 +1,39 @@
+#tieude ul {
+    margin: 0px;
+    padding: 0px;
+}
+#tieude ul li img{
+    width: 50%;
+    height: 280px;
+}
+
+#tieude2 ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+#tieude2 ul li img {
+    width: 50%;
+    height: 280px;
+}
+
+.than {
+    width: 60%;
+    margin-left: 14%;
+    font-size: 20px;
+    font-family: segoe ui light;
+    color: black;
+}
+
+#mau p{
+    color: rgb(252, 9, 9);
+}
+
+#congphuong h1 {
+    width: 60%;
+    margin-left: 14%;
+    font-size: 20px;
+    font-family: segoe ui light;
+    color: black;
+}
+
